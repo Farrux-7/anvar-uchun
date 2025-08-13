@@ -1,0 +1,27 @@
+.a{ background-color: mediumpurple;
+border-radius: 10px;
+text-align: center;
+border: 5px solid red;
+}
+.b{ color: darkslateblue;
+}
+.c{ background-color: red;
+}
+.e{background-color: green;
+
+}
+.f{ background-color: blueviolet;
+}
+table,
+td,
+tr,
+th {
+  border: 1px solid white;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+
+
+
+

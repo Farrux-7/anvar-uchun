@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../urokframe2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exam2"
+	}
+}
